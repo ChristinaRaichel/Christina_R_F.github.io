@@ -1,5 +1,8 @@
+
 ## Welcome to GitHub Pages
 
+Hello!!
+I am Christina and this is my jotting space
 You can use the [editor on GitHub](https://github.com/chris1234565/Christina_R_F.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
